@@ -31,7 +31,7 @@ A modern admin dashboard built with React, Tailwind CSS, and Shadcn/ui component
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/admin-dashboard.git
+   git clone https://github.com/akashgupta157/admin-dashboard.git
    cd admin-dashboard
    ```
 
